@@ -158,7 +158,7 @@ Full-stack development co-op building and maintaining web application features e
 | Recognition | Details |
 |:--|:--|
 | ISC² Cybersecurity Specialization | Completed 4-course specialization — *Introducing Security: Aligning Asset and Risk Management* (Nov 2023) |
-| Full-Stack Co-op Placement | Selected for a full-stack developer co-op at Aljdwa (Apr – Jul 2026) |
+| Full-Stack Co-op Placement | Selected for a full-stack developer co-op at Aljdwa (Jan – Jul 2026) |
 | Multi-Track Certification Path | Actively pursuing CCNA, CEH, and CompTIA Network+ in parallel with coursework |
 
 </div>
