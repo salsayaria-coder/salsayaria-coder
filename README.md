@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/30047596/README.md)
+[Uploading README.md…]()
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8A2BE2,100:7C3AED&height=220&section=header&text=Salem%20Al-Saiari&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
@@ -23,7 +23,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salsayaria-coder&style=for-the-badge&color=8A2BE2&labelColor=0D1117)
 ![Followers](https://img.shields.io/github/followers/salsayaria-coder?label=Followers&style=for-the-badge&color=6366F1&labelColor=0D1117&logo=github)
-![Repos Starred](https://img.shields.io/badge/dynamic/json?color=7C3AED&label=Repos%20Starred&style=for-the-badge&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsalsayaria-coder%2Fstarred&labelColor=0D1117&logo=github)
+![Stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fsalsayaria-coder&label=Total%20Stars&query=stars&color=7C3AED&style=for-the-badge&labelColor=0D1117&logo=github)
 
 </div>
 
