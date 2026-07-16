@@ -94,10 +94,10 @@ I approach engineering the way I approach security: methodically. I care about w
 > Actively building during my full-stack co-op at Aljdwa — current repositories are private. The cards below are ready-to-fill templates; swap in your real project details and repo links as you publish.
 
 <details>
-<summary><b>📦 Project One — Add Your Project Title</b></summary>
+<summary><b>📦 Project one — Team tech</b></summary>
 <br/>
 
-Add a 2–3 sentence description: what the project does, the problem it solves, and who it's for.
+
 
 | Category | Details |
 |:--|:--|
